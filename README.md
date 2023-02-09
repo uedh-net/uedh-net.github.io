@@ -1,5 +1,3 @@
-# μEDH
-
 ## Rules
 
 1. Normal EDH rules apply—[commander](https://scryfall.com/search?q=f%3Aedh+r%3Cr+is%3Acommander), color identity, banlist, etc.
