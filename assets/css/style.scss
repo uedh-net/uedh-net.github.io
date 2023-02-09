@@ -4,10 +4,14 @@
 @import "jekyll-theme-minimal";
 
 footer {
-  width: unset;
   float: unset;
-  position: unset;
   content: "";
   clear: both;
   display: table;
+  opacity: 0.5;
+  max-width: 860px;
+  width: unset;
+  bottom: 1rem;
+  font-size: xx-small;
+  text-align: center;
 }
