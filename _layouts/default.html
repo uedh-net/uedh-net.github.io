@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="en-US">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -9,24 +9,26 @@
 <body>
     <div class="wrapper">
         <header>
-            <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+            <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
             
             {% if site.logo %}
             <img src="{{site.logo | relative_url}}" alt="Logo" />
             {% endif %}
             
-            <p>{{ site.description | default: site.github.project_tagline }}</p>
+            <p>{{ site.description }}</p>
         </header>
 
         <section>
             {{ content }}
         </section>
     </div>
-    <footer>
-        <small>Wizards of the Coast, Magic: The Gathering, and their logos are trademarks of Wizards of the Coast LLC in the United States and other countries. © 1993-2023 Wizards. All Rights Reserved.</small>
-        <br/>
-        <small>μEDH.net is not affiliated with, endorsed, sponsored, or specifically approved by Wizards of the Coast LLC. μEDH.net may use the trademarks and other intellectual property of Wizards of the Coast LLC, which is permitted under Wizards' Fan Site Policy. MAGIC: THE GATHERING® is a trademark of Wizards of the Coast. For more information about Wizards of the Coast or any of Wizards' trademarks or other intellectual property, please visit their website at [https://company.wizards.com/](https://company.wizards.com).</small>
-    </footer>
+    <div class="wrapper">
+        <footer>
+            <small>Wizards of the Coast, Magic: The Gathering, and their logos are trademarks of Wizards of the Coast LLC in the United States and other countries. © 1993-2023 Wizards. All Rights Reserved.</small>
+            <br/>
+            <small>μEDH.net is not affiliated with, endorsed, sponsored, or specifically approved by Wizards of the Coast LLC. μEDH.net may use the trademarks and other intellectual property of Wizards of the Coast LLC, which is permitted under Wizards' Fan Site Policy. MAGIC: THE GATHERING® is a trademark of Wizards of the Coast. For more information about Wizards of the Coast or any of Wizards' trademarks or other intellectual property, please visit their website at [https://company.wizards.com/](https://company.wizards.com).</small>
+        </footer>
+    </div>
 </body>
 </html>
     
