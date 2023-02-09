@@ -1,8 +1,8 @@
 ## Rules
 
-1. Normal EDH rules apply—[commander](https://scryfall.com/search?q=f%3Aedh+r%3Cr+is%3Acommander), color identity, banlist, etc.
-2. Deck must contain only [cards with at least one printing at common/uncommon](https://scryfall.com/search?q=f%3Aedh+r%3Cr).
-3. Up to 4 cards in the "99" may be exempt to rule 2.
+1. `f:edh`: A μEDH deck must be a legal EDH deck.
+2. `r<r`: A μEDH deck must only contain [cards printed at common/uncommon at least once](https://scryfall.com/search?q=f%3Aedh+r%3Cr).
+3. A μEDH deck may contain up to 4 non-commander cards exempt from rule 2.
 
 ## Brews
 
