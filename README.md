@@ -9,12 +9,11 @@
 ## Scryfall filters
 
 - Commander: [f:edh r<r is:commander](https://scryfall.com/search?q=f%3Aedh+r%3Cr+is%3Acommander)
-- "99": [f:edh r<r](https://scryfall.com/search?q=f%3Aedh+r%3Cr).
+- "99": [f:edh r<r](https://scryfall.com/search?q=f%3Aedh+r%3Cr)
 
 <!--## Philosophy
 
 - μEDH is an EDH deckbuilding constraint, *not a new EDH variant*:
-  - Every deck that is "legal" in μEDH is "legal" in EDH, but not vice versa.
   - Beating your buddies' $250 EDH "7's" with a $25 μEDH brew is highly rewarding and strongly encouraged.
 - μEDH is rarity constrained, *not budget constrained*:
   - μEDH has no formal budget constraint because card prices are liable to fluctuate daily, but new cards are only printed periodically. Brews just naturally tend toward inexpensive when majority comprised of commons, uncommons, and basics.
