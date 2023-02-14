@@ -6,6 +6,12 @@
 
 ## Brews
 
-- [Hallar Burn](https://www.moxfield.com/decks/_q9VFbBgS0yOuZlbbBuPAA) <span class="R"></span><span class="G"></span>
-- [Valduk Equipment](https://www.moxfield.com/decks/-XTdyNGE50K0oKbzGKMgYw) <span class="R"></span>
-- [Lagrella Combo](https://www.moxfield.com/decks/E-OnpPglZEC0kvhmw4KUuQ) <span class="W"></span><span class="U"></span><span class="G"></span>
+<!--
+- <span class="W"></span>
+- <span class="U"></span>
+- <span class="B"></span> -->
+- [Valduk Equipment](https://www.moxfield.com/decks/8Xe9R9I0LESEVm3JtBtSxQ) <span class="R"></span>
+<!--
+- <span class="G"></span> -->
+- [Hallar Burn](https://www.moxfield.com/decks/GFUaxnMTmUKFg_RMyEpd3A) <span class="R"></span><span class="G"></span>
+- [Lagrella Combo](https://www.moxfield.com/decks/rVfbj4k7z0-5tgAP0x711Q) <span class="W"></span><span class="U"></span><span class="G"></span>
