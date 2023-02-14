@@ -2,7 +2,7 @@
 
 1. A μEDH deck must be a legal EDH deck.
 2. A μEDH deck must only contain [cards printed at common/uncommon at least once](https://scryfall.com/search?q=f%3Aedh+r%3Cr).
-3. A μEDH deck may contain up to 4 non-[commander](https://scryfall.com/search?q=f%3Aedh+r%3Cr+is%3Acommander) cards exempt from rule 2.
+3. A μEDH deck may contain up to 4 cards exempt from rule 2, excluding its [commander](https://scryfall.com/search?q=f%3Aedh+r%3Cr+is%3Acommander).
 
 ## Brews
 
