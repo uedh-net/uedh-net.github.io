@@ -8,11 +8,9 @@
 
 <!--
 - <span class="W"></span>
-- <span class="U"></span>
--->
-<!--
 - <span class="G"></span>
 -->
+- [Jalira Polymorph](https://www.moxfield.com/decks/k1_rRxycJkKPRRl1OoZSMg) <span class="U"></span>
 - [Tormod + Nadier Aristocrats](https://www.moxfield.com/decks/EIeRKQu9r0Oooen4GU69Dw) <span class="B"></span>
 - [Valduk Equipment](https://www.moxfield.com/decks/8Xe9R9I0LESEVm3JtBtSxQ) <span class="R"></span>
 - [Hallar Burn](https://www.moxfield.com/decks/GFUaxnMTmUKFg_RMyEpd3A) <span class="R"></span><span class="G"></span>
