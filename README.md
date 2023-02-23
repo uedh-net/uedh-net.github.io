@@ -7,9 +7,9 @@
 ## Brews
 
 <!--
-- <span class="W"></span>
 - <span class="G"></span>
 -->
+- [Lulu Vet Weenies](https://www.moxfield.com/decks/ek2k0Kxo80ipe6_jnM47UA) <span class="W"></span>
 - [Jalira Polymorph](https://www.moxfield.com/decks/k1_rRxycJkKPRRl1OoZSMg) <span class="U"></span>
 - [Tormod + Nadier Aristocrats](https://www.moxfield.com/decks/EIeRKQu9r0Oooen4GU69Dw) <span class="B"></span>
 - [Valduk Equipment](https://www.moxfield.com/decks/8Xe9R9I0LESEVm3JtBtSxQ) <span class="R"></span>
