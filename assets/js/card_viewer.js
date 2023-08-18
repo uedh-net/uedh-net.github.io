@@ -15,13 +15,14 @@ function card_href_to_image_req (href) {
   parts.pop()
   href = parts.join('/')
   // add params
-  href = href + '?format=image&version=normal'
+  href = href + '?format=image&version=png'
   // add 'https://'
   href = 'https://' + href
   return href
 }
 
 (function () {
+  const viewer = document.getElementById('card_viewer')
   const content = document.getElementById('content')
   var cards = content.getElementsByClassName('card')
   for (var i = 0; i < cards.length; i++) {
@@ -29,6 +30,8 @@ function card_href_to_image_req (href) {
     var href = card.href
     var image_req = card_href_to_image_req(href)
     if (image_req === null) continue
-    console.log(image_req)
+    card.addEventListener('mouseover', () => {
+      viewer.innerHTML = '<img src="' + image_req + '" />'
+    })
   }
 })()
