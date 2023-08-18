@@ -16,6 +16,8 @@ function card_href_to_image_req (href) {
   href = parts.join('/')
   // add params
   href = href + '?format=image&version=normal'
+  // add 'https://'
+  href = 'https://' + href
   return href
 }
 
