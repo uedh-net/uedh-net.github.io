@@ -8,6 +8,10 @@ header h1 img {
   max-width: 240px;
 }
 
+body {
+  padding: 2em;
+}
+
 footer {
   float: unset;
   content: "";
@@ -60,5 +64,5 @@ footer {
 }
 
 #card_viewer {
-  max-width: 12em;
+  max-width: 16em;
 }
