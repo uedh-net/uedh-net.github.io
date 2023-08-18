@@ -9,7 +9,7 @@
 <!--
 - <span class="G"></span>
 -->
-- [Lulu Vet Weenies](https://www.moxfield.com/decks/ek2k0Kxo80ipe6_jnM47UA) <span class="W"></span>
+- [Lulu, Loyal Hollyphant](https://scryfall.com/card/clb/32/lulu-loyal-hollyphant){: .card}//[Veteran Soldier](https://scryfall.com/card/clb/48/veteran-soldier){: .card} Weenies [Moxfield](https://www.moxfield.com/decks/ek2k0Kxo80ipe6_jnM47UA) <span class="W"></span>
 - [Jalira Polymorph](https://www.moxfield.com/decks/k1_rRxycJkKPRRl1OoZSMg) <span class="U"></span>
 - [Tormod + Nadier Aristocrats](https://www.moxfield.com/decks/EIeRKQu9r0Oooen4GU69Dw) <span class="B"></span>
 - [Zada Weenies](https://www.moxfield.com/decks/zlf6sesqP0S5zS87rEWFBw) <span class="R"></span>
