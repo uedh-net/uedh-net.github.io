@@ -1,4 +1,4 @@
-function card_href_to_image_req (href) {
+function card_to_image (href) {
   // e.g.,
   // https://scryfall.com/card/clb/48/veteran-soldier ->
   // https://api.scryfall.com/cards/clb/48?format=image&version=normal
@@ -21,6 +21,13 @@ function card_href_to_image_req (href) {
   return href
 }
 
+function show_on_hover (viewer, card, image) {
+  card.addEventListener('mouseover', () => {
+    console.log(image)
+    viewer.innerHTML = '<img src="' + image + '" />'
+  })
+}
+
 (function () {
   const viewer = document.getElementById('card_viewer')
   const content = document.getElementById('content')
@@ -28,10 +35,8 @@ function card_href_to_image_req (href) {
   for (var i = 0; i < cards.length; i++) {
     var card = cards[i]
     var href = card.href
-    var image_req = card_href_to_image_req(href)
-    if (image_req === null) continue
-    card.addEventListener('mouseover', () => {
-      viewer.innerHTML = '<img src="' + image_req + '" />'
-    })
+    var image = card_to_image(href)
+    if (image === null) continue
+    show_on_hover(viewer, card, image)
   }
 })()
