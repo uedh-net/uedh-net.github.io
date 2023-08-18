@@ -12,6 +12,7 @@
 - [Lulu Vet Weenies](https://www.moxfield.com/decks/ek2k0Kxo80ipe6_jnM47UA) <span class="W"></span>
 - [Jalira Polymorph](https://www.moxfield.com/decks/k1_rRxycJkKPRRl1OoZSMg) <span class="U"></span>
 - [Tormod + Nadier Aristocrats](https://www.moxfield.com/decks/EIeRKQu9r0Oooen4GU69Dw) <span class="B"></span>
+- [Zada, Hedron Grinder](https://www.moxfield.com/decks/zlf6sesqP0S5zS87rEWFBw) <span class="R"></span>
 - [Valduk Equipment](https://www.moxfield.com/decks/8Xe9R9I0LESEVm3JtBtSxQ) <span class="R"></span>
 - [Rootha Poison](https://www.moxfield.com/decks/PPPwSNSVWEai8wygZfj2IA) <span class="U"></span><span class="R"></span>
 - [Hallar Burn](https://www.moxfield.com/decks/GFUaxnMTmUKFg_RMyEpd3A) <span class="R"></span><span class="G"></span>
