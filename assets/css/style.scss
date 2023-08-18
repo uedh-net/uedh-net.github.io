@@ -13,8 +13,9 @@ body {
 }
 
 footer {
-  margin-top: 2em;
-  
+  position: relative;
+  bottom: -4em;
+  width: unset;
   font-size: xx-small;
   text-align: center;
   opacity: 0.4;
