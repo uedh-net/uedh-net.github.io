@@ -22,9 +22,10 @@ section {
 }
 
 footer {
+  width: unset;
   position: relative;
   bottom: -4em;
-  width: unset;
+  padding-bottom: 1em;
   font-size: xx-small;
   text-align: center;
   opacity: 0.4;
