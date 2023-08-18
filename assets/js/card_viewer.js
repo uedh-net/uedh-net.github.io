@@ -4,7 +4,7 @@ function card_href_to_image_req (href) {
   // https://api.scryfall.com/cards/clb/48?format=image&version=normal
   // remove 'https://'
   if (href.slice(0, 8) !== 'https://') return
-  href = href.slice(8, foo.length)
+  href = href.slice(8, href.length)
   // add 'api.'
   href = 'api.' + href
   // 'card' -> 'cards'
