@@ -6,8 +6,6 @@
 
 ## Brews
 
-[Micromancer](https://scryfall.com/card/dmu/57/micromancer){: .card}
-
 ### W <span class="W"></span>
 
 - [Lulu, Loyal Hollyphant](https://scryfall.com/card/clb/32/lulu-loyal-hollyphant){: .card} + [Veteran Soldier](https://scryfall.com/card/clb/48/veteran-soldier){: .card} Weenies [🠂](https://www.moxfield.com/decks/ek2k0Kxo80ipe6_jnM47UA)
