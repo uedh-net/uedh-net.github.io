@@ -14,6 +14,7 @@
 - [Tormod + Nadier Aristocrats](https://www.moxfield.com/decks/EIeRKQu9r0Oooen4GU69Dw) <span class="B"></span>
 - [Zada, Hedron Grinder](https://www.moxfield.com/decks/zlf6sesqP0S5zS87rEWFBw) <span class="R"></span>
 - [Valduk Equipment](https://www.moxfield.com/decks/8Xe9R9I0LESEVm3JtBtSxQ) <span class="R"></span>
+- [Yedora, Grave Gardener](https://www.moxfield.com/decks/KKKRGtlAf0ic_l3hlbvP9g) <span class="G"></span>
 - [Rootha Poison](https://www.moxfield.com/decks/PPPwSNSVWEai8wygZfj2IA) <span class="U"></span><span class="R"></span>
 - [Hallar Burn](https://www.moxfield.com/decks/GFUaxnMTmUKFg_RMyEpd3A) <span class="R"></span><span class="G"></span>
 - [Lagrella Combo](https://www.moxfield.com/decks/rVfbj4k7z0-5tgAP0x711Q) <span class="W"></span><span class="U"></span><span class="G"></span>
