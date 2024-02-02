@@ -29,6 +29,9 @@
 
 - [Yedora, Grave Gardener](https://scryfall.com/card/cmm/333/yedora-grave-gardener){: .card} Combo [&rarr;](https://www.moxfield.com/decks/KKKRGtlAf0ic_l3hlbvP9g)
 
+### WG <span class="W"></span><span class="G"></span>
+- [Trelasarra, Moon Dancer](https://scryfall.com/card/afr/236/trelasarra-moon-dancer){: .card} Combo [&rarr;](https://www.moxfield.com/decks/3LWUHKvJ_0KLSthQOBd_7w)
+
 ### UB <span class="U"></span><span class="B"></span>
 - [Keskit, the Flesh Sculptor](https://scryfall.com/card/moc/254/keskit-the-flesh-sculptor){: .card} + [Malcolm, Keen-Eyed Navigator](https://scryfall.com/card/lcc/161/malcolm-keen-eyed-navigator){: .card} Poison [&rarr;](https://www.moxfield.com/decks/Jvj4KE_LiEWg4UTiqlACyA)
 
