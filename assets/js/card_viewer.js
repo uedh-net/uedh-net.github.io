@@ -47,8 +47,6 @@ function attach_tooltip_event_handlers (element, tooltip, image) {
   [
     ['mouseenter', show_tooltip],
     ['mouseleave', hide_tooltip],
-    ['focus', show_tooltip],
-    ['blur', hide_tooltip],
   ].forEach(([event, listener]) => {
     element.addEventListener(event, listener)
   })
