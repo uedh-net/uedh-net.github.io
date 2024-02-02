@@ -19,6 +19,12 @@ header h1 img {
 }
 
 @media not all and (hover: none) {
+  #card_viewer {
+    background-image: url(https://cards.scryfall.io/large/front/1/1/117c3844-cb9b-432f-901a-9cbbaa1da680.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+
   #card_viewer img {
     width: 240px;
     height: 336px;
