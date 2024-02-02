@@ -16,16 +16,21 @@
 
 ### B <span class="B"></span>
 
+- [Gonti, Lord of Luxury](https://scryfall.com/card/cmm/162/gonti-lord-of-luxury){: .card} Theft [&rarr;](https://www.moxfield.com/decks/THdM5DVpD0-2xM71oVGNjQ)
 - [Tormod, the Desecrator](https://scryfall.com/card/cmr/155/tormod-the-desecrator){: .card} + [Nadier, Agent of the Duskenel](https://scryfall.com/card/cmr/135/nadier-agent-of-the-duskenel){: .card} Aristocrats [&rarr;](https://www.moxfield.com/decks/EIeRKQu9r0Oooen4GU69Dw)
 
 ### R <span class="R"></span>
 
-- [Zada, Hedron Grinder](https://scryfall.com/card/cmm/268/zada-hedron-grinder){: .card} Weenies [&rarr;](https://www.moxfield.com/decks/zlf6sesqP0S5zS87rEWFBw)
+- [Kediss, Emberclaw Familiar](https://scryfall.com/card/cmr/188/kediss-emberclaw-familiar){: .card} + [Rograkh, Son of Rohgahh](https://scryfall.com/card/cmr/197/rograkh-son-of-rohgahh){: .card} Voltron [&rarr;](https://www.moxfield.com/decks/xavvIDq_7kOmZ7PB_9iFhQ)
 - [Valduk, Keeper of the Flame](https://scryfall.com/card/cmm/266/valduk-keeper-of-the-flame){: .card} Equipment [&rarr;](https://www.moxfield.com/decks/8Xe9R9I0LESEVm3JtBtSxQ)
+- [Zada, Hedron Grinder](https://scryfall.com/card/cmm/268/zada-hedron-grinder){: .card} Weenies [&rarr;](https://www.moxfield.com/decks/zlf6sesqP0S5zS87rEWFBw)
 
 ### G <span class="G"></span>
 
 - [Yedora, Grave Gardener](https://scryfall.com/card/cmm/333/yedora-grave-gardener){: .card} Combo [&rarr;](https://www.moxfield.com/decks/KKKRGtlAf0ic_l3hlbvP9g)
+
+### UB <span class="U"></span><span class="B"></span>
+- [Keskit, the Flesh Sculptor](https://scryfall.com/card/moc/254/keskit-the-flesh-sculptor){: .card} + [Malcolm, Keen-Eyed Navigator](https://scryfall.com/card/lcc/161/malcolm-keen-eyed-navigator){: .card} Poison [&rarr;](https://www.moxfield.com/decks/Jvj4KE_LiEWg4UTiqlACyA)
 
 ### UR <span class="U"></span><span class="R"></span>
 - [Rootha, Mercurial Artist](https://scryfall.com/card/stx/227/rootha-mercurial-artist){: .card} Poison [&rarr;](https://www.moxfield.com/decks/PPPwSNSVWEai8wygZfj2IA)
