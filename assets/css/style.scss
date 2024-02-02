@@ -4,8 +4,8 @@
 @import "jekyll-theme-minimal";
 
 a:hover, a:focus {
-    color: #00476b;
-    font-weight: 400;
+  color: #00476b;
+  font-weight: 400;
 }
 
 header h1 img {
@@ -50,8 +50,7 @@ footer {
   width: 1em;
   height: 1em;
   display: inline-block;
-  position: relative;
-  bottom: -0.15em;
+  vertical-align: bottom;
 }
  
 .W {
