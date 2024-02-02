@@ -25,7 +25,7 @@ function show_on_hover (viewer, card, image) {
   card.addEventListener('mouseover', () => {
     viewer.innerHTML = '<img src="' + image + '" />'
     FloatingUIDOM.computePosition(card, viewer).then(({x, y}) => {
-      Object.assign(tooltip.style, {
+      Object.assign(viewer.style, {
         left: `${x}px`,
         top: `${y}px`,
       })
