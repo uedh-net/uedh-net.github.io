@@ -23,8 +23,13 @@ function card_to_image (href) {
 
 function show_on_hover (viewer, card, image) {
   card.addEventListener('mouseover', () => {
-    console.log(image)
     viewer.innerHTML = '<img src="' + image + '" />'
+    FloatingUIDOM.computePosition(card, viewer).then(({x, y}) => {
+      Object.assign(tooltip.style, {
+        left: `${x}px`,
+        top: `${y}px`,
+      })
+    })
   })
 }
 
