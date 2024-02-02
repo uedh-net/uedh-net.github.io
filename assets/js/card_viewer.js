@@ -25,7 +25,7 @@ function attach_tooltip_event_handlers (element, tooltip, image) {
   function update_tooltip() {
     tooltip.innerHTML = '<img src="' + image + '" />'
     FloatingUIDOM.computePosition(element, tooltip, {
-      placement: 'left',
+      placement: 'right',
       middleware: [FloatingUIDOM.flip(), FloatingUIDOM.shift()],
     }).then(({x, y}) => {
       Object.assign(tooltip.style, {
