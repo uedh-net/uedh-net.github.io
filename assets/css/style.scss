@@ -3,6 +3,11 @@
 
 @import "jekyll-theme-minimal";
 
+a:hover, a:focus {
+    color: #00476b;
+    font-weight: 400;
+}
+
 header h1 img {
   width: 60%;
   max-width: 240px;
@@ -11,6 +16,13 @@ header h1 img {
 #card_viewer {
   width: 240px;
   height: 336px;
+}
+
+.tooltip {
+  width: max-content;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 body {
