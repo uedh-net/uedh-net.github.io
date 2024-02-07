@@ -43,3 +43,6 @@
 
 ### WUG <span class="W"></span><span class="U"></span><span class="G"></span>
 - [Lagrella, the Magpie](https://scryfall.com/card/snc/196/lagrella-the-magpie){: .card} Combo [&rarr;](https://www.moxfield.com/decks/rVfbj4k7z0-5tgAP0x711Q)
+
+### UBR <span class="U"></span><span class="B"></span><span class="R"></span>
+- [Cormela, Glamour Thief](https://scryfall.com/card/snc/177/cormela-glamour-thief){: .card} Combo [&rarr;](https://www.moxfield.com/decks/q3F5xe0QS0SQNU-dEl2tDg)
